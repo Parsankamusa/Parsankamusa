@@ -1,2 +1,2 @@
-## hi there
-- welcome to my github
+## helo there
+- welcome to my project

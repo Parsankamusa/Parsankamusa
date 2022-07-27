@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on **myproject**
 
+- 🌱 I’m currently learning **ML && Javascript**
+
+- 💬 Ask me about **python, FrontendWeb development**
+
 - 📫 How to reach me **parsankamusa@gmail.com**
 
 - ⚡ Fun fact **I think my fun projects give a lot of fun**

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm mose</h1>
-<h3 align="center">A passionate software Frontend developer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Musa Parsanka from KENYA</h1>
+<h3 align="center">A passionate Aspiring Backend  software developer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsankamusa&label=Profile%20views&color=0e75b6&style=flat" alt="parsankamusa" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **ML && Javascript**
 
-- 💬 Ask me about **python, FrontendWeb development**
+- 💬 Ask me about **python, FrontendWeb development and anyother related software development**
 
 - 📫 How to reach me **parsankamusa@gmail.com**
 
-- ⚡ Fun fact **I think my fun projects give a lot of fun**
+- ⚡ Fun fact **"Dreamt" is the only English word that ends in the letters "mt" **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

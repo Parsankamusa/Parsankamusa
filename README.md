@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, </h1>
+<h1 align="center">Hi 👋, I'm Musa </h1>
 <h3 align="center">A passionate Aspiring Backend  software developer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsankamusa&label=Profile%20views&color=0e75b6&style=flat" alt="parsankamusa" /> </p>

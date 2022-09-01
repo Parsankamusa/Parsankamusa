@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/musa_parsanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musa_parsanka" height="30" width="40" /></a>
+<a href="https://twitter.com/musa_parsanka" target="https://twitter.com/musa_parsanka"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musa_parsanka" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/musa-parsanka-3bb1b1240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/musa-parsanka-3bb1b1240/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19513224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19513224" height="30" width="40" /></a>
 <a href="https://fb.com/mose parsanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mose parsanka" height="30" width="40" /></a>

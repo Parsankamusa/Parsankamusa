@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Musa </h1>
 <h3 align="center">A passionate Aspiring Backend  software developer from Nairobi, Kenya</h3>
-![]![image](https://user-images.githubusercontent.com/91263172/197853636-79ae0020-caba-44b4-b793-07b47b537691.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsankamusa&label=Profile%20views&color=0e75b6&style=flat" alt="parsankamusa" /> </p>
 

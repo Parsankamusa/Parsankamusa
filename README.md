@@ -34,6 +34,11 @@ I am a passionate, dedicated & enthusiastic python backend developer. I enjoy bu
 - 🌍  I'm based in kenya <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Animated-Flag-Kenya.gif" width="40" height="20"/>
 - 🧠  I'm learning NodeJS  && Python 🐍
 - 🤝  I'm open to collaborating on Projects
+-  💬 Ask me about **python, FrontendWeb development and anyother related software development**
+
+- 📫 How to reach me **parsankamusa@gmail.com**
+
+- ⚡ Fun fact **"Dreamt" is the only English word that ends in the letters "mt" **
 - ⚡  I'm an emerging World-class Programmer!
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,8 +51,8 @@ I am a passionate, dedicated & enthusiastic python backend developer. I enjoy bu
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+  <a href="https://aws.amazon.com" target="https://aws.amazon.com" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </div>
 
 ### :fire: Badges

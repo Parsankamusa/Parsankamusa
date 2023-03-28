@@ -10,8 +10,8 @@ I am a Software Engineer 👨‍💻
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/aniebietafia/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a  href="https://www.linkedin.com/in/musa-parsanka-3bb1b1240/" target="https://www.linkedin.com/in/musa-parsanka-3bb1b1240/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/musa-parsanka-3bb1b1240/" height="30" width="40" />
+   
   </a>
   
   <a href="https://twitter.com/AfiaAniebiet">

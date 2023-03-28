@@ -14,9 +14,9 @@ I am a Software Engineer 👨‍💻
    
   </a>
   
-  <a href="https://twitter.com/AfiaAniebiet">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/musa_parsanka" target="https://twitter.com/musa_parsanka"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musa_parsanka" height="30" width="40" /></a>
   </a>
+  <a  href="https://stackoverflow.com/users/19513224" target="https://stackoverflow.com/users/19513224"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19513224" height="30" width="40" /></a>
 </div>
 
 <div id="badges" align="center">

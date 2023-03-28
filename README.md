@@ -31,10 +31,9 @@ I am a Software Engineer 👨‍💻
 
 --------------------------------------------------------------------------------------------------
 ### :man_technologist: About Me :
-I am a passionate, dedicated & enthusiastic NodeJs developer. I enjoy building projects to develope my skillset in the ecosystem but also enjoy working in a team. I am currently a student at ALX-Africa and I am making excellent progress thus far.
+I am a passionate, dedicated & enthusiastic python backend developer. I enjoy building projects to develope my skillset in the ecosystem but also enjoy working in a team. I am currently a student at ALX-Africa and I am making excellent progress thus far.
 
-- 🌍  I'm based in Nigeria <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Animated-Flag-Nigeria.gif" width="40" height="20"/>
-- 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/AfiaAniebiet)
+- 🌍  I'm based in kenya <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Animated-Flag-Kenya.gif" width="40" height="20"/>
 - 🧠  I'm learning NodeJS  && Python 🐍
 - 🤝  I'm open to collaborating on Projects
 - ⚡  I'm an emerging World-class Programmer!
@@ -62,19 +61,19 @@ I am a passionate, dedicated & enthusiastic NodeJs developer. I enjoy building p
 <b>My GitHub Stats</b>
 
 <div>
-<a href="http://www.github.com/AfiaAniebiet"><img src="https://github-readme-stats.vercel.app/api?username=AfiaAniebiet&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AfiaAniebiet's GitHub stats" /></a>
+<a href="http://www.github.com/Parsankamusa"><img src="https://github-readme-stats.vercel.app/api?username=Parsankamusa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AfiaAniebiet's GitHub stats" /></a>
 
-<a href="http://www.github.com/AfiaAniebiet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AfiaAniebiet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Parsankamusa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Parsankamusa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<a href="http://www.github.com/AfiaAniebiet"><img src="https://activity-graph.herokuapp.com/graph?username=AfiaAniebiet&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/parsankamusa"><img src="https://activity-graph.herokuapp.com/graph?username=Parsankamusa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
 
-<a href="https://github.com/AfiaAniebiet" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfiaAniebiet&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Parsankamusa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parsankamusa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AfiaAniebiet/alx-higher_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AfiaAniebiet&repo=alx-higher_level_programming
+<div width="100%" align="center"><a href="https://github.com/Parsankamusa/alx-higher_level_programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Parsankamusa&repo=alx-higher_level_programming
 &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me

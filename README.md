@@ -1,5 +1,5 @@
 <h1>
-  Nice to meet you!
+  Hello! Nice to meet you!
   <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="30px"/>
 </h1>
 
@@ -32,9 +32,9 @@ I am a Software Engineer 👨‍💻
 I am a passionate, dedicated & enthusiastic python backend developer. I enjoy building projects to develope my skillset in the ecosystem but also enjoy working in a team. I am currently a student at ALX-Africa and I am making excellent progress thus far.
 
 - 🌍  I'm based in kenya <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Animated-Flag-Kenya.gif" width="40" height="20"/>
-- 🧠  I'm learning NodeJS  && Python 🐍
+- 🧠  I'm learning JavaScript  && Python 🐍
 - 🤝  I'm open to collaborating on Projects
--  💬 Ask me about **python, FrontendWeb development and anyother related software development**
+-  💬 Ask me about **python, Backend development and anyother related software development**
 
 - 📫 How to reach me **parsankamusa@gmail.com**
 

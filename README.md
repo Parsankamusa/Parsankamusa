@@ -34,7 +34,7 @@ I am a passionate, dedicated & enthusiastic python backend developer. I enjoy bu
 - 🌍  I'm based in kenya <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Animated-Flag-Kenya.gif" width="40" height="20"/>
 - 🧠  I'm learning nodejs  && Python🐍 backend
 - 🤝  I'm open to collaborating on Projects
--  💬 Ask me about **python, Backend development and anyother related software development**
+-  💬 let talk about **python, Backend development,Devops and anyother related software development**
 
 - 📫 How to reach me **parsankamusa@gmail.com**
 
@@ -54,12 +54,12 @@ I am a passionate, dedicated & enthusiastic python backend developer. I enjoy bu
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/tree/master/icons/sqlalchemy" title="sqlalchemy" **alt="sqlalchemy" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy" **alt="sqlalchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" **alt="Nodejs" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" **alt="ngix" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" **alt="flask" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original-wordmark.svg" title="django" **alt="django" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" **alt="django" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" **alt="boostrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="apache" **alt="apache" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original-wordmark.svg" title="bash" **alt="bash" width="40" height="40"/>&nbsp;

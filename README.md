@@ -32,7 +32,7 @@ I am a Software Engineer 👨‍💻
 I am a passionate, dedicated & enthusiastic python backend developer. I enjoy building projects to develope my skillset in the ecosystem but also enjoy working in a team.:blush:
 
 - 🌍  I'm based in kenya <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Animated-Flag-Kenya.gif" width="40" height="20"/>
-- 🧠  I'm learning nodejs  && Python🐍 backend
+- 🧠  I'm learning laravel Framework
 - 🤝  I'm open to collaborating on Projects
 -  💬 let talk about **python, Backend development,Devops and anyother related software development**
 

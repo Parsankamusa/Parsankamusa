@@ -5,9 +5,6 @@
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Parsankamusa | 💻 Software Engineer | 🛸 Nairobi, Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-I am a Software Engineer 👨‍💻
--------------------------
-
 
 <div id="badges" align="center">
   <a  href="https://www.linkedin.com/in/musa-parsanka-3bb1b1240/" target="https://www.linkedin.com/in/musa-parsanka-3bb1b1240/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/musa-parsanka-3bb1b1240/" height="30" width="40" />

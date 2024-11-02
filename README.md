@@ -3,11 +3,11 @@
   <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="30px"/>
 </h1>
 
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Parsankamusa | 💻 Software Engineer | 🛸 Nairobi, Kenya <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 I am a Software Engineer 👨‍💻
 -------------------------
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="300"/>
-</div>
+
 
 <div id="badges" align="center">
   <a  href="https://www.linkedin.com/in/musa-parsanka-3bb1b1240/" target="https://www.linkedin.com/in/musa-parsanka-3bb1b1240/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/musa-parsanka-3bb1b1240/" height="30" width="40" />
@@ -40,6 +40,11 @@ I am a passionate, dedicated & enthusiastic python backend developer. I enjoy bu
 
 - ⚡ Fun fact **"Dreamt" is the only English word that ends in the letters "mt" **
 - ⚡  I'm an emerging World-class Programmer!
+
+<div align="center">
+ 
+  <img src="assets/images/cv1.png" alt="cover" />
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 

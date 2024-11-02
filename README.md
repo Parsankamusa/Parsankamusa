@@ -26,7 +26,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-<img align="right" height="450" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="400" width="400" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 ### :man_technologist: About Me :
 I am a passionate, dedicated & enthusiastic python backend developer. I enjoy building projects to develope my skillset in the ecosystem but also enjoy working in a team.:blush:
 

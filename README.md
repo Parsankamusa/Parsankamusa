@@ -40,11 +40,6 @@ I am a passionate, dedicated & enthusiastic python backend developer. I enjoy bu
 - ⚡ Fun fact **"Dreamt" is the only English word that ends in the letters "mt" **
 - ⚡  I'm an emerging World-class Programmer!
 
-<div align="center">
- 
-  <img src="assets/images/cv1.png" alt="cover" />
-</div>
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
